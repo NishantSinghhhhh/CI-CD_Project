@@ -28,7 +28,7 @@ If you haven't already, create a repository for your web application in a Git-ba
 
 ```bash
 # fork this repository and clone it to your local machine
-git clone https://github.com/ankitraz/minor-project
+git clone https://github.com/NishantSinghhhhh/CI-CD_Project
 ```
 
 ## Step 2: Setup Jenkins and Docker on DigitalOcean Droplet
@@ -38,11 +38,6 @@ Next, you'll need to install and configure Jenkins on a build agent machine. Jen
 To install Jenkins, follow the instructions in the Jenkins documentation for your operating system. After Jenkins is installed, you'll need to configure it to access your source code repository. This can typically be done through the Jenkins web interface.
 
 * For provisioning servers, We will use Terraform module for digital ocean. Ensure that you have terraform installed on your local machine. You can download it from [here](https://www.terraform.io/downloads.html)
-
-```bash
-# clone the repository and follow the instructions in the README
-https://github.com/ankitraz/terraform-do
-```
 
 
 ## Step 3: Create a Jenkins Job
