@@ -1,4 +1,4 @@
-# Continuous Integration and Continuous Deployment (CI/CD) Pipeline for a Web Application
+# (CI/CD) Pipeline for a Web Application
 
 # You can access this website at http://137.184.23.94/
 
